@@ -26,3 +26,5 @@ Data Transformation: Sometimes, the data needs to be transformed or restructured
 Data Reduction: In cases where the dataset is large and computationally expensive to analyze, data reduction techniques may be applied. These techniques aim to reduce the size of the dataset while preserving its essential characteristics. Examples include sampling, dimensionality reduction, or feature selection.
 
 Data Formatting: To ensure compatibility with the analysis tools or algorithms, the data may need to be formatted into a specific structure or file format. This step involves organizing the data according to the requirements of the chosen analysis techniques.
+make as useful as we can
+
