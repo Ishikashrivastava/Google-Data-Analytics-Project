@@ -1,6 +1,6 @@
 # Google-Data-Analytics-Project
 Apply the practices and procedures associated with the data analysis process to a given set of data.
-Case Study: How Does a Bike-Share Navigate Speedy Success? anad kdwhdk
+Case Study: How Does a Bike-Share Navigate Speedy Success? 
 
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you will perform many real-world tasks of a junior
 data analyst. You will work for a fictional company, Cyclistic, and meet different characters and team members. In order to
